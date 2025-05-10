@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 11th of May, 2025
 
 **Brainrot Simulator: Sahur Go!** ("we", "our", or "us") respects your privacy. This policy explains how we handle user data.
 
